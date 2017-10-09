@@ -1,0 +1,16 @@
+C:\Users\Micha\Documents\Visual Studio 2015\Projects\4Gewinnt\4Gewinnt\bin\Release\4Gewinnt.exe.config
+C:\Users\Micha\Documents\Visual Studio 2015\Projects\4Gewinnt\4Gewinnt\bin\Release\4Gewinnt.exe
+C:\Users\Micha\Documents\Visual Studio 2015\Projects\4Gewinnt\4Gewinnt\bin\Release\4Gewinnt.pdb
+C:\Users\Micha\Documents\Visual Studio 2015\Projects\4Gewinnt\4Gewinnt\obj\Release\4Gewinnt.csprojResolveAssemblyReference.cache
+C:\Users\Micha\Documents\Visual Studio 2015\Projects\4Gewinnt\4Gewinnt\obj\Release\MainWindow.g.cs
+C:\Users\Micha\Documents\Visual Studio 2015\Projects\4Gewinnt\4Gewinnt\obj\Release\Options.g.cs
+C:\Users\Micha\Documents\Visual Studio 2015\Projects\4Gewinnt\4Gewinnt\obj\Release\App.g.cs
+C:\Users\Micha\Documents\Visual Studio 2015\Projects\4Gewinnt\4Gewinnt\obj\Release\4Gewinnt_MarkupCompile.cache
+C:\Users\Micha\Documents\Visual Studio 2015\Projects\4Gewinnt\4Gewinnt\obj\Release\4Gewinnt_MarkupCompile.lref
+C:\Users\Micha\Documents\Visual Studio 2015\Projects\4Gewinnt\4Gewinnt\obj\Release\MainWindow.baml
+C:\Users\Micha\Documents\Visual Studio 2015\Projects\4Gewinnt\4Gewinnt\obj\Release\Options.baml
+C:\Users\Micha\Documents\Visual Studio 2015\Projects\4Gewinnt\4Gewinnt\obj\Release\4Gewinnt.g.resources
+C:\Users\Micha\Documents\Visual Studio 2015\Projects\4Gewinnt\4Gewinnt\obj\Release\_4Gewinnt.Properties.Resources.resources
+C:\Users\Micha\Documents\Visual Studio 2015\Projects\4Gewinnt\4Gewinnt\obj\Release\4Gewinnt.csproj.GenerateResource.Cache
+C:\Users\Micha\Documents\Visual Studio 2015\Projects\4Gewinnt\4Gewinnt\obj\Release\4Gewinnt.exe
+C:\Users\Micha\Documents\Visual Studio 2015\Projects\4Gewinnt\4Gewinnt\obj\Release\4Gewinnt.pdb
